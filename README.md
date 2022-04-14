@@ -1,2 +1,5 @@
 # markdown-demo
-A basic example of most Markdown syntax.
+
+A basic example of most available Markdown syntax.
+
+## Heading Level Two
