@@ -40,6 +40,12 @@ document.write("Hello World!");
 
 To add tables to a Markdown documnet you use a series of dashes and bars:
 
-| Headeing 1      | Heading 2     | Heading 3     |
-| --------------- | ------------- | ------------- |
-| Value 1         | Value 2       | Value 3       |
+| Heading 1      | Heading 2     | Heading 3     |
+| -------------- | ------------- | ------------- |
+| Value 1        | Value 2       | Value 3       |
+
+Tables in your Markdown file don't need to line up:
+
+Heading 1 | Heading 2 | Heading 3
+--- | --- | ---
+Value 1 | Value 2 | Value 3
