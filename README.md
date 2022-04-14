@@ -12,5 +12,5 @@ This is a a paragraph with some **bold** and *italics* text.
 
 ## Images
 
-!(https://raw.githubusercontent.com/codeadamca/markdown-demo/main/logo.png)
+![codeadam.ca logo](https://raw.githubusercontent.com/codeadamca/markdown-demo/main/logo.png)
 
