@@ -35,3 +35,11 @@ Here is some sample JavaScript:
 ```javascript
 document.write("Hello World!");
 ```
+
+## Tables
+
+To add tables to a Markdown documnet you use a series of dashes and bars:
+
+| Headeing 1      | Heading 2     | Heading 3     |
+| --------------- | ------------- | ------------- |
+| Value 1         | Value 2       | Value 3       |
