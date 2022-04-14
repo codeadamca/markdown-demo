@@ -57,6 +57,6 @@ You can add lists using number `<ol>` or dashes `<ul>`:
 1. This is the first list item.
 2. This is the second list item.
 
-This is the second paragraph in the second list item.
+    This is the second paragraph in the second list item.
 
 3. This is the third list item.
