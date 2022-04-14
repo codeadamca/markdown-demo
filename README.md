@@ -23,7 +23,7 @@ You can add inline `code` using a single backtick. Or a block of code using thee
 ## This is a Level Two Header
 ```
 
-You can specify the language in a bloc of code after the three ticks:
+You can specify the language in a block of code after the three ticks:
 
 ```markdown
 # This is a Level One Header
