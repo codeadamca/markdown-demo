@@ -29,3 +29,9 @@ You can specify the language in a bloc of code after the three ticks:
 # This is a Level One Header
 ## This is a Level Two Header
 ```
+
+Here is some sample JavaScript:
+
+```javascript
+document.write("Hello World!");
+```
