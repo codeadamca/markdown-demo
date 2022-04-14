@@ -49,3 +49,14 @@ Tables in your Markdown file don't need to line up:
 Heading 1 | Heading 2 | Heading 3
 --- | --- | ---
 Value 1 | Value 2 | Value 3
+
+## Lists
+
+You can add lists using number `<ol>` or dashes `<ul>`:
+
+1. This is the first list item.
+2. This is the second list item.
+
+This is the second paragraph in the second list item.
+
+3. This is the third list item.
