@@ -60,3 +60,13 @@ You can add lists using number `<ol>` or dashes `<ul>`:
     This is the second paragraph in the second list item.
 
 3. This is the third list item.
+
+## Tutorial Requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/) 
+* [Markdown Guide](https://www.markdownguide.org/)
+* [Markdown](https://daringfireball.net/projects/markdown/)
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
