@@ -1,4 +1,12 @@
-# markdown-demo
+[![Nord GitHub Shield Latest Release][shields-gh-releases-nord]][nord-gh-releases] [![Nord NPM Registry Shield Latest Release Version Number][shields-npm-version-nord]][npm-nord]
+
+[nord-gh-releases]: https://github.com/arcticicestudio/nord/releases/latest
+[npm-nord]: https://www.npmjs.com/package/nord
+[shields-npm-version-nord]: https://img.shields.io/npm/v/nord.svg?style=flat-square
+[shields-gh-releases-nord]: https://img.shields.io/github/release/arcticicestudio/nord.svg?style=flat-square
+
+
+# Markdown Demo
 
 A basic example of most available Markdown syntax.
 
