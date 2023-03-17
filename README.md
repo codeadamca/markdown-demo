@@ -1,4 +1,3 @@
-[![Nord GitHub Shield Latest Release][shields-gh-releases-nord]][nord-gh-releases] [![Nord NPM Registry Shield Latest Release Version Number][shields-npm-version-nord]][npm-nord]
 
 [nord-gh-releases]: https://github.com/arcticicestudio/nord/releases/latest
 [npm-nord]: https://www.npmjs.com/package/nord
