@@ -2,7 +2,15 @@
 
 A basic example of most available Markdown syntax.
 
+## Headings
+
+Headings are added using a `#` for heading level one, `##` for heading level two, etc...
+
 ## Heading Level Two
+
+```markdown
+## Heading Level Two
+```
 
 This is a a paragraph with some **bold** and *italics* text.
 
