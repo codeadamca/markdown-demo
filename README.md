@@ -12,19 +12,37 @@ Headings are added using a `#` for heading level one, `##` for heading level two
 ## Heading Level Two
 ```
 
-This is a a paragraph with some **bold** and *italics* text.
+## Paragraphs
 
-```md
-This is a a paragraph with some **bold** and *italics* text.
+Paragraphs are added by simply adding text on their own line.
+
+```markdown
+This is a a paragraph.
+
+And this is another paragraph. 
 ```
 
 ## Links
 
+Links are added using square brackets for the clickable part and round brackets for the URL.
+
+```markdown
 [codeadam.ca](https://codeadam.ca)
+```
 
 ## Images
 
+Images are added imilarly to links. The image description is placed in square brackets, and a URL to the image is placed in the round brackets. The different between an image and a link, is that an image stats with an exclamation mark `!`.
+
+This image:
+
 ![codeadam.ca logo](https://raw.githubusercontent.com/codeadamca/markdown-demo/main/logo.png)
+
+Was added using this code:
+
+```markdown
+![codeadam.ca logo](https://raw.githubusercontent.com/codeadamca/markdown-demo/main/logo.png)
+```
 
 ## Adding Code to Markdown
 
