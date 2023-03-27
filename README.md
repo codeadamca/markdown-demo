@@ -6,6 +6,10 @@ A basic example of most available Markdown syntax.
 
 This is a a paragraph with some **bold** and *italics* text.
 
+```md
+This is a a paragraph with some **bold** and *italics* text.
+```
+
 ## Links
 
 [codeadam.ca](https://codeadam.ca)
