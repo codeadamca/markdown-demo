@@ -91,7 +91,9 @@ You can add lists using number `<ol>` or dashes `<ul>`:
 
 3. This is the third list item.
 
-## Tutorial Requirements:
+***
+
+## Repo References
 
 * [Visual Studio Code](https://code.visualstudio.com/) 
 * [Markdown Guide](https://www.markdownguide.org/)
