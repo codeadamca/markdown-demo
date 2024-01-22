@@ -1,4 +1,4 @@
-# Markdownn Demo
+# Markdown Demo
 
 ## Paragraphs
 
