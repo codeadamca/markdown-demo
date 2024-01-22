@@ -32,3 +32,11 @@ This is a unnumbered list:
 This is a link to [BrickMMO](https://brickmmo.com).
 
 ![CodeAdam Logo](logo.png)
+
+The `span` tag is an inline element. 
+
+```javascript
+// This is multiple lines of JavaScript
+let test = 1;
+if(test == 1) test = 2;
+```
