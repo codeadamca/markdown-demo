@@ -59,3 +59,9 @@ if(test == 1) test = 2;
 | JavaScript | JS           | 10   |
 | Java       | Java         | 0    |
 
+
+Name | Abbreviation | Rate
+--- | --- | ---:
+SQL | SQL | 5
+JavaScript | JS | 10
+
