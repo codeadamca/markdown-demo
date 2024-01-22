@@ -18,7 +18,10 @@ This is a numbered list:
 
 1. This is item one.
 2. This is item two.
-3. This is item three.
+
+This is the second paragraph in item two.
+
+4. This is item three.
 
 This is a unnumbered list:
 
