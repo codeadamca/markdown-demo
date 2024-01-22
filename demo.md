@@ -40,3 +40,13 @@ This is an unnumbered list:
 ## Images
 
 ![Systems Graphic](systems.png)
+
+## Code
+
+This is inline `code`.
+
+```javascrit
+// This is multiline JavaScript
+let test = 1;
+if(test == 1) test = 2;
+```
