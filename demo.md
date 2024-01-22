@@ -50,3 +50,12 @@ This is inline `code`.
 let test = 1;
 if(test == 1) test = 2;
 ```
+
+## Tables
+
+| Name | Abbreviation | Rate |
+| ---- | ------------ | ---- |
+| SQL | SQL | 5 |
+| JavaScript | JS | 10 |
+| Java | Java | 0 |
+
