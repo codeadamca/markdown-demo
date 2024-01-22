@@ -45,7 +45,7 @@ This is an unnumbered list:
 
 This is inline `code`.
 
-```javascrit
+```javascript
 // This is multiline JavaScript
 let test = 1;
 if(test == 1) test = 2;
