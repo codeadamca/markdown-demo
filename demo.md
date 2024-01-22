@@ -40,3 +40,10 @@ The `span` tag is an inline element.
 let test = 1;
 if(test == 1) test = 2;
 ```
+
+## Tables
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | --------- | --------- |
+| Content 1 | Content 2 | Content 3 |
+| Content 1 | Content 2 | Content 3 |
