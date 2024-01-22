@@ -47,3 +47,7 @@ if(test == 1) test = 2;
 | --------- | --------- | --------- |
 | Content 1 | Content 2 | Content 3 |
 | Content 1 | Content 2 | Content 3 |
+
+Heading 1 | Heading 2 | Heading 3 
+- | - | -
+Content 1 | Content 2 | Content 3
