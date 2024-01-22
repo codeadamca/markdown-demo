@@ -31,3 +31,4 @@ This is a unnumbered list:
 
 This is a link to [BrickMMO](https://brickmmo.com).
 
+![CodeAdam Logo](logo.png)
