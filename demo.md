@@ -44,8 +44,8 @@ To add an image use an `<img>` tag.
 
 You can add multi-line code by using three tics and the name of the coding language:
 
-```
-function test(){
-    console.log("test");
+```javascript
+function test() {
+  console.log("test");
 }
 ```
