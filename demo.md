@@ -35,3 +35,9 @@ This is a link to [my portfolio](https://codeadam.ca).
 This is an image:
 
 ![BrickMMO Planet](planet.png)
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an image use an `<img>` tag.
