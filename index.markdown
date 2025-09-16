@@ -75,3 +75,10 @@ PHP | 2 | Back
 ## Commenting
 
 <!-- HTML COMMENTS WILL WORK -->
+
+## Notes and Warnings
+
+> This is a block quote.
+
+> [!WARNING] 
+> This is a warning.
